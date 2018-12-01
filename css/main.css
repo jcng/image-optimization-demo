@@ -1,0 +1,11 @@
+.showcase-image {
+  width: 100%;
+}
+
+.image-frame {
+  padding: 40px;
+  margin: 20px;
+  border: 1px solid #4e4e4e;
+  border-radius: 4px;
+  background-color: #e7e7e7;
+}
